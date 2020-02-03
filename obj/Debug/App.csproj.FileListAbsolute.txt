@@ -1,0 +1,7 @@
+E:\Project\ExcelParseTest\App\bin\Debug\App.exe.config
+E:\Project\ExcelParseTest\App\bin\Debug\App.exe
+E:\Project\ExcelParseTest\App\bin\Debug\App.pdb
+E:\Project\ExcelParseTest\App\obj\Debug\App.csprojAssemblyReference.cache
+E:\Project\ExcelParseTest\App\obj\Debug\App.csproj.ResolveComReference.cache
+E:\Project\ExcelParseTest\App\obj\Debug\App.exe
+E:\Project\ExcelParseTest\App\obj\Debug\App.pdb
